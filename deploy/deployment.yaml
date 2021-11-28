@@ -79,6 +79,5 @@ spec:
       - name: aws-secret
         secret:
           secretName: aws-secret
-        ports:
-        - containerPort: 8080
+
         
